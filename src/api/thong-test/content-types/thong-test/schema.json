@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "thong_tests",
+  "info": {
+    "singularName": "thong-test",
+    "pluralName": "thong-tests",
+    "displayName": "Thông test"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "text": {
+      "type": "text"
+    }
+  }
+}
