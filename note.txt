@@ -1,0 +1,7 @@
+Lần đầu tiên chạy thì phải chạy lệnh này, các lần sau thì không cần
+
+npm install
+
+Sau đó chạy lệnh này
+
+npm run start
